@@ -1,0 +1,45 @@
+🎥 YouTube Group Presentation Script: Furniture Design Application
+
+[Intro Slide – Group Name / Project Title]
+
+Narrator (Team Lead):  
+"Hello everyone! Welcome to our presentation on the Furniture Design Desktop Application. We’re excited to show you how this Java-based tool helps visualize room layouts in 2D and 3D, making interior design easier and more interactive for customers and store designers."
+
+[Slide – Problem Statement / Product Vision]
+
+Team Member 1:  
+"The idea behind our app is simple. Customers want to see how furniture will look and fit in their rooms. Our tool helps designers showcase custom layouts based on size, shape, and color scheme—bridging imagination with reality."
+
+[Slide – Features Overview]
+
+Team Member 2:  
+"Our key features include:  
+- Customizable room creation with shapes, colors, and sizes  
+- 2D and 3D visualization  
+- Drag-and-drop furniture from a 3D catalog  
+- Project dashboard for managing saved designs"
+
+[Slide – Design Process]
+
+Team Member 3:  
+"During design, we created personas, user stories, and low-fidelity sketches, then converted those into high-fidelity prototypes using Figma. Feedback helped us refine layout flow, visibility, and usability."
+
+[Slide – Tech Stack / Implementation]
+
+Team Member 4:  
+"The app is developed in Java using JavaFX for GUI and 3D support. We used the jimObjModelImporterJFX library to load 3D models and Gson to manage user data. Maven handles our project dependencies."
+
+[Slide – Testing and Feedback]
+
+Team Member 1:  
+"User testing showed the drag-and-drop feature and 3D view were intuitive and helpful. Some feedback included improving model rotation and performance on low-end PCs. We plan to enhance this in future updates."
+
+[Slide – Summary / What We Learned]
+
+Team Member 2:  
+"This project taught us the importance of feedback-driven development, iterative design, and keeping usability front and center. Collaboration and planning were key to delivering a polished final product."
+
+[Outro – Thank You Slide]
+
+Narrator (Team Lead):  
+"Thank you for watching our demo! We hope you enjoyed seeing how our Furniture Design App brings interior ideas to life. Feel free to leave feedback or ask questions in the comments. See you next time!"
